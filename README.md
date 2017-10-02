@@ -28,3 +28,6 @@ Description (can be just text based, max 100 characters)
 - No formal authentication is required for the MVP version. Anyone can add, edit, ... a vacancy. The same thing for applying for a job.
 - For the MVP, there is no need to build the backend. You can use https://github.com/angular/in-memory-web-api to mock the API.
 - Focus on the MVP and refine further when you finish the first pass. The requirements are very loose for the MVP version, but feel free to refine it as much as you want later.
+- Fork this repository and submit Pull Request as often as you want so that we can review your code. Use your name as the title of your PR.
+
+*Good Luck*
